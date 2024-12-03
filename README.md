@@ -60,11 +60,9 @@ Input Layer: Rescaling (1./255)
 ---
 
 ## 📈 Visualizations
-### Training and Validation Accuracy
-![Accuracy Plot](https://via.placeholder.com/800x400)
+### Training and Validation Accuracy & Loss
+![Accuracy & Loss Plot](https://github.com/11SST11/SCDISIC/blob/main/plots/finalPlot.png)
 
-### Training and Validation Loss
-![Loss Plot](https://via.placeholder.com/800x400)
 
 ---
 
@@ -89,16 +87,12 @@ Input Layer: Rescaling (1./255)
 ├── data
 │   ├── train/       # Training dataset
 │   ├── val/         # Validation dataset
-├── models
-│   ├── model1.py    # Basic CNN
-│   ├── model2.py    # CNN with Dropout and Augmentation
-│   ├── model3.py    # Advanced CNN
 ├── notebooks
 │   ├── preprocessing.ipynb  # Data preprocessing and augmentation
-│   ├── training.ipynb       # Model training and evaluation
+│   ├── SCDISIC.ipynb      # Model training and evaluation
 ├── plots
-│   ├── accuracy_plot.png
-│   ├── loss_plot.png
+│   ├── finalplot.png
+│   ├── model1plot.png
 ├── README.md
 ```
 
