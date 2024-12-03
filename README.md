@@ -116,8 +116,8 @@ Input Layer: Rescaling (1./255)
 ## 📢 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/skin-cancer-detection.git
-   cd skin-cancer-detection
+   git clone https://github.com/username/SCDISIC.git
+   cd SCDISIC
    ```
 2. Install dependencies:
    ```bash
@@ -132,10 +132,7 @@ Input Layer: Rescaling (1./255)
 
 ---
 
-## 🧑‍💻 Contributors
-- [Your Name](https://github.com/username)  
 
----
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
